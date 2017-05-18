@@ -6,7 +6,7 @@
 File Name : compare_data_synth.py
 Purpose : align data and synthetic
 Creation Date : 08-05-2017
-Last Modified : Mon 08 May 2017 04:41:17 PM EDT
+Last Modified : Thu 18 May 2017 01:29:25 PM EDT
 Created By : Samuel M. Haugland
 
 ==============================================================================
